@@ -1,0 +1,37 @@
+05:35:29 - == MCP 7.26 (data: 7.26, client: 1.4.7, server: 1.4.7) ==
+05:35:29 - OS : linux2
+05:35:31 - # VERSION INFO
+05:35:31 - python: 2.6.6 (r266:84292, Aug 28 2012, 10:55:56) 
+[GCC 4.4.6 20120305 (Red Hat 4.4.6-4)]
+05:35:31 - platform: Linux-2.6.32-279.22.1.el6.x86_64-x86_64-with-redhat-6.3-Santiago
+05:35:31 - # java: '"java" -version'
+05:35:31 - java version "1.7.0_09-icedtea"
+OpenJDK Runtime Environment (rhel-2.3.4.1.el6_3-i386)
+OpenJDK Server VM (build 23.2-b09, mixed mode)
+05:35:31 - # javac: '"javac" -version'
+05:35:32 - javac 1.7.0_09
+05:35:32 - # javac runtime: '"javac" -J-version'
+05:35:32 - java version "1.7.0_09-icedtea"
+OpenJDK Runtime Environment (rhel-2.3.4.1.el6_3-i386)
+OpenJDK Client VM (build 23.2-b09, mixed mode)
+05:35:32 - # retroguard: 'runtime/bin/retroguard.jar --version'
+05:35:33 - RetroGuard MCP v3.6.5
+based on RetroGuard v2.3.1 by Retrologic Systems - www.retrologic.com
+05:35:33 - # mcinjector: 'runtime/bin/mcinjector.jar --version'
+05:35:33 - MCInjector v2.8 by Searge, LexManos, Fesh0r
+05:35:33 - # patch: 'patch --version'
+05:35:34 - patch 2.6
+05:35:34 - # wine: 'wine --version'
+05:35:34 - # astyle: 'astyle --version'
+05:35:34 - # fernflower: 'runtime/bin/fernflower.jar'
+05:35:34 - Usage: java ConsoleDecompiler ( -<option>=<value>)* (<source>)+ <destination>
+05:35:34 - !! Please install either wine or astyle for source cleanup !!
+05:35:34 - # found ff, ff patches, srgs, name csvs, doc csvs, param csvs, renumber csv, astyle config
+05:35:34 - Updates disabled
+05:35:34 - > Creating Retroguard config files
+05:35:34 - client md5: 8e80fb01b321c6b3c7efca397a3eea35
+05:35:34 - == Decompiling client using fernflower ==
+05:35:34 - > Creating SRGs
+05:35:34 - > Applying Retroguard
+05:35:34 - !! Please install either wine or astyle for source cleanup !!
+05:35:34 - !! This is REQUIRED by FML/Forge Cannot proceed !!
